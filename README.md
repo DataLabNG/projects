@@ -1,4 +1,5 @@
-# projects
-Datalab Nigeria Data Science and AI Projects
+# Loan Prediction with R
+Learn how to build classification model to predict if a loan will be bad or good
 
-Loan Prediction using Machine Learning in R
+Language: R Programming
+Platform: R Studio
